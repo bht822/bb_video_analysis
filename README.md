@@ -1,4 +1,4 @@
-# KAPonTWO_BB_video_analysis  
+# BB_video_analysis  
 
 ## Step 1:
  `git clone https://github.com/bht822/bb_video_analysis.git`
